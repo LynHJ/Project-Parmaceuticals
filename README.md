@@ -9,8 +9,8 @@
         
     To make sure my analysis is unbiased.I will do some calculations to check the datasets I have received
     1.Remove duplicated data
-    2.All the pharmaceuticals should be used in similar durations.
-    3.Based on each pharmaceutical,calculating the mean, median, variance, standard deviation, and SEM of the tumor volume.
+    2.Based on each pharmaceutical,calculating the mean, median, variance, standard deviation, and SEM of the tumor volume.
+    3.All the pharmaceuticals should be used in similar durations.
     4.Check the mice'sex laying out.
     5.Picking up four pharmaceuticals which have lowest results of SEM of the tumor volume, and comparing via box plots.
     6.Checking the relation between tumour size and timeframe on the pharmaceutical which shows the best result.
