@@ -9,7 +9,7 @@ I've been given access to the complete data from their most recent animal study.
 They have also asked for a technical report of the study and a top-level summary of the study results.  
 
 ### Source
-There are two data sets. one is Mouse_Data and another one is Study_Result.
+There are two data sets, a file of Mouse_Data.csv and a file of Study_Result.
 
 ### Data Analysis
 
