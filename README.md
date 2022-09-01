@@ -38,13 +38,13 @@ To make sure my analysis is unbiased.I will do some calculations to check the da
 
 Project  
 |  
-|Project-Parmaceuticals|  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-data:&emsp;&emsp;&nbsp;|-Mouse_metadata.csv   
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Study_results.csv   
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-OutputData:|-ADA.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|-DA.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Pymaceuticals.ipynb.ipynb  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Drug Regimens Report.pdf    
+|Project-Parmaceuticals-|  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|-data:&emsp;&emsp;&emsp;&nbsp;|-Mouse_metadata.csv   
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Study_results.csv   
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|-OutputData:|-ADA.png  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|-DA.png  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|-Pymaceuticals.ipynb.ipynb  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|-Drug Regimens Report.pdf    
 |-README.md 
 
 ## Installation
