@@ -44,8 +44,8 @@ Project
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-OutputData:|-ADA.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|-DA.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-Pymaceuticals.ipynb.ipynb  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-Drug Regimens Report.pdf 
-|-requirements.txt   
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-Drug Regimens Report.pdf   
+|-requirements.txt     
 |-README.md 
 
 ## Installation
