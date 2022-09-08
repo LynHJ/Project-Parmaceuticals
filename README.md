@@ -44,13 +44,13 @@ Project
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-OutputData:|-ADA.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|-DA.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-Pymaceuticals.ipynb.ipynb  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-Drug Regimens Report.pdf    
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-Drug Regimens Report.pdf 
+|-requirements.txt   
 |-README.md 
 
 ## Installation
 
-1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7.7    
-2.conda install matplotlib    
+pip install -r requirements.txt
  
 
 
