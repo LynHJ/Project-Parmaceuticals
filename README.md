@@ -35,18 +35,20 @@ To make sure my analysis is unbiased.I will do some calculations to check the da
 
 
 ## Content:
+```
+Project
+├── Drug Regimens Report.pdf
+├── OutputData
+│   ├── ADA.png
+│   └── DA.png
+├── Pymaceuticals.ipynb
+├── README.md
+├── data
+│   ├── Mouse_metadata.csv
+│   └── Study_results.csv
+├── requirements.txt
 
-Project  
-|  
-|-Project-Parmaceuticals-|  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-data:&emsp;&emsp;&emsp;&nbsp;|-Mouse_metadata.csv   
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Study_results.csv   
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-OutputData:|-ADA.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|-DA.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-Pymaceuticals.ipynb.ipynb  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|-Drug Regimens Report.pdf   
-|-requirements.txt     
-|-README.md 
+```
 
 ## Installation
 
