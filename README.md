@@ -8,11 +8,11 @@ I've been given access to the complete data from their most recent animal study.
 
 They have also asked for a technical report of the study and a top-level summary of the study results.  
 
-### Source
+## Source
 
 There are two data sets, a file of Mouse_Data.csv and a file of Study_Result.
 
-### Data Analysis
+## Data Analysis
 
 To make sure my analysis is unbiased.I will do some calculations to check the datasets I have received  
 1. Remove duplicated data  
@@ -26,7 +26,7 @@ To make sure my analysis is unbiased.I will do some calculations to check the da
 ![alt](https://github.com/LynHJ/Pymaceuticals/blob/2cb0f6bd5874f10ca0940cfbcb1fba0dc42f16ab/OutputData/DA.png)  
 
 
-### Advanced Data Analysis
+## Advanced Data Analysis
 
 ![alt](https://github.com/LynHJ/Pymaceuticals/blob/2cb0f6bd5874f10ca0940cfbcb1fba0dc42f16ab/OutputData/ADA.png)  
 
